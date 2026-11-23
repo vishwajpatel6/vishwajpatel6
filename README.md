@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hey, I'm Vishwa Patel!<br><br>### 💻 IT Student | Python Learner | Tech Enthusiast<br><br>## 💫 About Me<br><br>I'm an IT student who enjoys learning about technology, programming, and software development.<br><br>I like exploring new technologies, writing code, and trying different ideas through small projects. I am currently building my knowledge in Python, Artificial Intelligence, Machine Learning, and Data Analysis.<br><br>I believe that the best way to learn programming is by practising, making mistakes, and working on real projects. I'm always curious to learn something new and improve my skills step by step.<br><br>## 🚀 What I'm Working On<br><br>- 🐍 Improving my Python programming skills.<br>- 🤖 Exploring Artificial Intelligence and Machine Learning.<br>- 📊 Learning Data Analysis and Visualization.<br>- 💻 Practising programming through small projects.<br>- 🌐 Exploring Web Development.<br><br>## 🛠️ Technologies & Tools<br><br>- **Languages:** Python, HTML, CSS, JavaScript<br>- **Interests:** Artificial Intelligence, Machine Learning, Data Science<br>- **Tools:** Git, GitHub, VS Code, Jupyter Notebook<br><br>## 🌱 Currently Learning<br><br>- Writing better and cleaner Python code.<br>- Understanding Machine Learning concepts.<br>- Working with real-world datasets.<br>- Improving problem-solving skills.<br>- Learning how to build useful applications.<br><br>## 🤝 Open to Collaboration<br><br>I'm happy to connect with other learners and developers, share ideas, and work together on interesting projects.<br><br>I would love to collaborate on beginner-friendly projects related to Python, AI, Machine Learning, and Data Analysis.<br><br>## 🎯 My Goals<br><br>- Improve my technical and programming skills.<br>- Build practical projects.<br>- Gain real-world experience.<br>- Learn from experienced developers.<br>- Grow as a developer and explore new opportunities.<br><br>## ⚡ A Little About Me<br><br>- 🔍 Curious about how technology works.<br>- 💡 Always interested in learning new things.<br>- 🎯 Focused on improving myself every day.<br>- 🚀 Believe in learning by doing.<br><br>---<br><br>### 💭 My Learning Philosophy<br><br>"Every expert was once a beginner. Keep learning, keep practising, and never stop improving."<br><br>**Thanks for visiting my profile! Feel free to explore my repositories. 😊**
 
-<!--
-**vishwajpatel6/vishwajpatel6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishwa Patel) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishwa Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwajpatel6@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vishwajpatel6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vishwajpatel6&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwajpatel6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vishwajpatel6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
